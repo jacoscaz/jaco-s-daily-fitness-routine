@@ -72,9 +72,15 @@ Note that many of these can be found in fitness parks all around the world.
 
 ## The routine
 
-Check out the [latest version of the routine in .PDF form][r1].
+The routine lives as a printer-friendly, evolving HTML document:
 
-[r1]: ./routine/jaco-s-daily-fitness-routine-20240908.pdf
+- [rendered version][r3]
+- [source code][r4]
+- [latest version in .PDF form][r5]
+
+[r3]: https://htmlpreview.github.io/?https://github.com/jacoscaz/jaco-s-daily-fitness-routine/blob/main/routine/jaco-s-daily-fitness-routine.html
+[r4]: ./routine/jaco-s-daily-fitness-routine.html
+[r5]: ./routine/jaco-s-daily-fitness-routine-20240908.pdf
 
 ## License
 
