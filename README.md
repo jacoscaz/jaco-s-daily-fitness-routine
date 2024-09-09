@@ -38,7 +38,8 @@ fitness professionals before making changes to your fitness regime.
    maximizing weekly variety to lessen its impact on joints, ligaments and 
    allow for shorter recovery times.
 4. **Portable**: this routine is designed to be relatively portable, minimizing
-   the amount of required equipment and optimizing for equipment that is most commonly available.
+   the amount of required equipment and optimizing for equipment that is most 
+   commonly available.
 
 [g1]: https://journal.crossfit.com/article/what-is-fitness
 
