@@ -81,7 +81,7 @@ The routine lives as a printer-friendly, evolving HTML document:
 
 [r3]: https://htmlpreview.github.io/?https://github.com/jacoscaz/jaco-s-daily-fitness-routine/blob/main/routine/jaco-s-daily-fitness-routine.html
 [r4]: ./routine/jaco-s-daily-fitness-routine.html
-[r5]: ./routine/jaco-s-daily-fitness-routine-20240908.pdf
+[r5]: ./routine/jaco-s-daily-fitness-routine-20240926.pdf
 
 ## License
 
